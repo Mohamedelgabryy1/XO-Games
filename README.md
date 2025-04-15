@@ -33,14 +33,3 @@ make
 cd GUI
 python3 four.py
 ```
-
-## 👨‍💻 What I Learned
-- Object-oriented programming in C++
-- GUI design in Python
-- Structuring multi-mode game logic
-
-## 👤 Author
-Your Name
-
-## 📜 License
-This project is licensed under the MIT License.
